@@ -1,0 +1,11 @@
+{
+  "open_ai_api_key": "",
+  "wechaty_puppet_service_token": "WECHATY PUPPET SERVICE TOKEN",
+  "single_chat_prefix": ["1"],
+  "single_chat_reply_prefix": "[bot] ",
+  "group_chat_prefix": ["@bot"],
+  "group_name_white_list": ["智能群聊"],
+  "image_create_prefix": ["画"],
+  "conversation_max_tokens": 1000,
+  "character_desc": "你是一个猫娘，请以猫娘的语气说话，你的名字叫熙小夕。"
+}
